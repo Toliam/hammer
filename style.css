@@ -1,0 +1,16 @@
+body {
+  background: blue;
+  width:855px;
+
+
+}
+
+.comments p {
+  width:150px;
+  padding: 10px;
+  margin: auto;
+}
+p {
+  width: 285px;
+
+}
